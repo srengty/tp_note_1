@@ -6,7 +6,9 @@ Objectives: objects and classes
 > Deadline is 20/12/2019 at 11pm
 
 ### Task 1
-Write Java program to display in console as shape below:
+Write Java program to display in console as shape below: 
+
+(class must named `Task1`)
 
 ```
      **************************
@@ -24,6 +26,8 @@ Write Java program to display in console as shape below:
 ### Task 2
 Implement an application Java that take a given number of seconds for converting into time with format `Hours:Minutes:Seconds`. 
 
+(class must named `Task2`) 
+
 Example
 
 ```
@@ -33,7 +37,10 @@ Program for converting seconds into formated H:M:S
 ```
 
 ### Task 3
-Write a program in Java to a Time (hours, minutes, seconds) to number of seconds. Hours, minutes and seconds are inputed from keyboard. 
+Write a program in Java to a Time (hours, minutes, seconds) to number of seconds. Hours, minutes and seconds are inputed from keyboard.  
+
+(class must named `Task3`)
+
 Example:
 
 ```
@@ -48,6 +55,9 @@ Program for converting time to seconds.
 
 ### Task 4
 Write a program in Java to calculate cost of calling with given Time Start (hours, minutes, and seconds) and Time End (hours, minutes, and seconds). The cost of call per minute is 0.05$. The program will display total number of minutes called and total cost of the call. 
+
+(class must named `Task4`)
+ 
 Example:
 
 ```
@@ -66,6 +76,9 @@ Program for calculating cost of a call.
 
 ### Task 5
 Write a program in Java to money in Riels to Dollar. Suppose that conversion rate is 1$ = 4000 Riels.
+
+(class must named `Task5`)
+
 Example:
 
 ```
