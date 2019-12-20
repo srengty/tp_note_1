@@ -1,8 +1,8 @@
 # TP Noté 1
 Objectives: objects and classes
 
-> You should `push` code each time you finish a task. 
-> You can comment in repository so that your teacher will see and can reply 
+> You should `push` code each time you finish a task. <br/>
+> You can comment in repository so that your teacher will see and can reply <br/>
 > Deadline is 20/12/2019 at 11pm
 
 ### Task 1
